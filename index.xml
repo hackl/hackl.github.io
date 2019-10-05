@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jürgen Hackl</title>
-    <link>https://hackl.github.io/</link>
+    <link>https://hackl.science/</link>
     <description>Recent content on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://hackl.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hackl.science/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>tikz-network</title>
-      <link>https://hackl.github.io/post/2019-10-05-tikznetwork/</link>
+      <link>https://hackl.science/post/2019-10-05-tikznetwork/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/post/2019-10-05-tikznetwork/</guid>
+      <guid>https://hackl.science/post/2019-10-05-tikznetwork/</guid>
       <description>&lt;p&gt;Check out my tool to visualize complex networks in LaTeX&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>pathpy</title>
-      <link>https://hackl.github.io/post/2019-10-05-pathpy/</link>
+      <link>https://hackl.science/post/2019-10-05-pathpy/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/post/2019-10-05-pathpy/</guid>
+      <guid>https://hackl.science/post/2019-10-05-pathpy/</guid>
       <description>&lt;p&gt;I am the lead developer of pathpy, an OpenSource python package for the analysis of time series data on networks using higher-order and multi-order graphical models.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>research</title>
-      <link>https://hackl.github.io/post/2019-10-05-science/</link>
+      <link>https://hackl.science/post/2019-10-05-science/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/post/2019-10-05-science/</guid>
+      <guid>https://hackl.science/post/2019-10-05-science/</guid>
       <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://hackl.github.io/about/</link>
+      <link>https://hackl.science/about/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/about/</guid>
+      <guid>https://hackl.science/about/</guid>
       <description>Short bio Dr. Jürgen Hackl is a senior researcher at the Data Analytics Group of the University of Zurich. His research interests lie in urban resilience and span both computational modeling and network science. Much of his work has been on improving the understanding, design, and performance of complex interdependent infrastructure systems, affected by natural hazards. In the networking area, he has worked on characterizing multi-layer spatially embedded random network using concepts from spatial statistics and graph theory.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://hackl.github.io/publications/</link>
+      <link>https://hackl.science/publications/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/publications/</guid>
+      <guid>https://hackl.science/publications/</guid>
       <description>Refereed Journal Publications  Hackl, J., and Adey, B. T. (2019) Estimation of traffic flow changes using networks in networks approaches. Applied Network Science, 4(1), 28. doi: 10.1007/s41109-019-0139-y
  Hackl, J., and Dubernet T. (2019). Epidemic Spreading in Urban Areas using Agent-Based Transportation Models. Future Internet, 11(4), 92. doi: 10.3390/fi11040092
  Hackl, J., and Adey, B. T. (2019). Modelling multi-layer spatially embedded random networks. Journal of Complex Networks, 7(2), 254&amp;ndash;280.</description>
@@ -60,10 +60,10 @@
     
     <item>
       <title>Talks</title>
-      <link>https://hackl.github.io/talks/</link>
+      <link>https://hackl.science/talks/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://hackl.github.io/talks/</guid>
+      <guid>https://hackl.science/talks/</guid>
       <description>Hackl, J. (2020). Non-Markovian models for bridge deterioration. 4th International Symposium on Infrastructure Asset Management (SIAM 2020). Chicago, Illinois, USA: Northwestern University. Conference Date: August 20-21, 2020.
  Hackl, J. (2019). Resilience quantification of complex infrastructure systems. At 2019 SRA Annual Meeting - Risk Analysis in the Data Analytics Era. Arlington, Virginia, USA: Society for Risk Analysis. Conference Date: December 8-12, 2019.
  Hackl, J. (2019). Natural hazards and infrastructure systems.</description>
