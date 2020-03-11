@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jürgen Hackl</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://hackl.science/post/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,21 +21,21 @@
     </item>
     
     <item>
+      <title>research</title>
+      <link>https://hackl.science/post/2019-10-05-science/</link>
+      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-10-05-science/</guid>
+      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>pathpy</title>
       <link>https://hackl.science/post/2019-10-05-pathpy/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/2019-10-05-pathpy/</guid>
       <description>&lt;p&gt;I am the lead developer of pathpy, an OpenSource python package for the analysis of time series data on networks using higher-order and multi-order graphical models.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://hackl.science/post/2019-10-05-science/</link>
-      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/2019-10-05-science/</guid>
-      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
     </item>
     
   </channel>
