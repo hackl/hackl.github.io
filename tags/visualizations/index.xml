@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>visualizations on Jürgen Hackl</title>
+    <link>https://hackl.science/tags/visualizations/</link>
+    <description>Recent content in visualizations on Jürgen Hackl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hackl.science/tags/visualizations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2017-12-heitzler-cart/</link>
+      <pubDate>Thu, 21 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2017-12-heitzler-cart/</guid>
+      <description>&lt;p&gt;A Simulation and Visualization Environment for Spatiotemporal Disaster Risk Assessments of Network Infrastructures&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2017-06-heitzler-jgsa/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2017-06-heitzler-jgsa/</guid>
+      <description>&lt;p&gt;GPU-Accelerated Rendering Methods to Visually Analyze Large-Scale Disaster Simulation Data&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2016-07-heitzler-jprs/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2016-07-heitzler-jprs/</guid>
+      <description>&lt;p&gt;A method to visualize the evolution of multiple interacting spatial systems&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

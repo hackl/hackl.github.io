@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transportation on Jürgen Hackl</title>
+    <link>https://hackl.science/tags/transportation/</link>
+    <description>Recent content in transportation on Jürgen Hackl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hackl.science/tags/transportation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2020-02-lam-jis/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2020-02-lam-jis/</guid>
+      <description>&lt;p&gt;Impact Assessment of Extreme Hydrometeorological Hazard Events on Road Networks&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2020-02-lam-sri/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2020-02-lam-sri/</guid>
+      <description>&lt;p&gt;Modelling the functional capacity losses of networks exposed to hazards&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2020-01-liu-sri/</link>
+      <pubDate>Sat, 18 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2020-01-liu-sri/</guid>
+      <description>&lt;p&gt;Prioritizing transportation network recovery using a resilience measure&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2019-05-hackl-apns/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-05-hackl-apns/</guid>
+      <description>&lt;p&gt;Estimation of traffic flow changes using networks in networks approaches&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2019-04-hackl-fi/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-04-hackl-fi/</guid>
+      <description>&lt;p&gt;Epidemic Spreading in Urban Areas using Agent-Based Transportation Models&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2019-04-hackl-comnet/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-04-hackl-comnet/</guid>
+      <description>&lt;p&gt;Modelling multi-layer spatially embedded random networks&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2018-08-hackl-nhess/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2018-08-hackl-nhess/</guid>
+      <description>&lt;p&gt;Estimating network related risks: A methodology and an application in the transport sector&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2018-08-hackl-cacaie/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2018-08-hackl-cacaie/</guid>
+      <description>&lt;p&gt;Determination of Near-Optimal Restoration Programs for Transportation Networks Following Natural Hazard Events Using Simulated Annealing&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

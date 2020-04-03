@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mobility on Jürgen Hackl</title>
+    <link>https://hackl.science/tags/mobility/</link>
+    <description>Recent content in mobility on Jürgen Hackl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hackl.science/tags/mobility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2019-05-hackl-apns/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-05-hackl-apns/</guid>
+      <description>&lt;p&gt;Estimation of traffic flow changes using networks in networks approaches&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2019-04-hackl-fi/</link>
+      <pubDate>Mon, 08 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2019-04-hackl-fi/</guid>
+      <description>&lt;p&gt;Epidemic Spreading in Urban Areas using Agent-Based Transportation Models&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

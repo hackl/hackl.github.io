@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>uncertainties on Jürgen Hackl</title>
+    <link>https://hackl.science/tags/uncertainties/</link>
+    <description>Recent content in uncertainties on Jürgen Hackl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://hackl.science/tags/uncertainties/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2020-02-lam-jis/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2020-02-lam-jis/</guid>
+      <description>&lt;p&gt;Impact Assessment of Extreme Hydrometeorological Hazard Events on Road Networks&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2020-02-lam-sri/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2020-02-lam-sri/</guid>
+      <description>&lt;p&gt;Modelling the functional capacity losses of networks exposed to hazards&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2018-08-hackl-nhess/</link>
+      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2018-08-hackl-nhess/</guid>
+      <description>&lt;p&gt;Estimating network related risks: A methodology and an application in the transport sector&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2017-10-lethanh-jbe/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2017-10-lethanh-jbe/</guid>
+      <description>&lt;p&gt;Determination of Markov Transition Probabilities to be Used in Bridge Management from Mechanistic-Empirical Models&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2016-09-hackl-ss/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2016-09-hackl-ss/</guid>
+      <description>&lt;p&gt;Reliability assessment of deteriorating reinforced concrete structures by representing the coupled effect of corrosion initiation and progression by Bayesian networks&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2015-02-hackl-iabse/</link>
+      <pubDate>Wed, 11 Feb 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2015-02-hackl-iabse/</guid>
+      <description>&lt;p&gt;Modelling the spatial-temporal progression of corrosion with special emphasis on its influence on structural reliability&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Article</title>
+      <link>https://hackl.science/post/2013-05-hackl-bi/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2013-05-hackl-bi/</guid>
+      <description>&lt;p&gt;Optimal Contract Design within Construction Industry using the Principal-Agent Theory&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
