@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hackl.science/post/carmentae/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hackl.science/post/tikznetwork/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
@@ -100,6 +105,11 @@
   <url>
     <loc>https://hackl.science/post/2013-05-hackl-bi/</loc>
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackl.science/post/cloudsimulations/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
