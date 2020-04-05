@@ -123,13 +123,23 @@
   </url>
   
   <url>
+    <loc>https://hackl.science/post/publications/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hackl.science/post/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hackl.science/categories/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hackl.science/categories/publications/</loc>
+    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -139,11 +149,6 @@
   
   <url>
     <loc>https://hackl.science/tags/networks/</loc>
-    <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hackl.science/categories/publications/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
   </url>
   
