@@ -6,10 +6,15 @@
     <description>Recent content on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hackl.science/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HONS 2021</title>
+      <link>https://hackl.science/post/2021-06-11-hons2021/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2021-06-11-hons2021/</guid>
+      <description>&lt;p&gt;Complex Networks in Social Systems, Higer-Order Models in Network Science&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ICOSSAR 2021</title>
@@ -270,9 +275,10 @@
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/talks/</guid>
-      <description>Hackl, J. (2020). A cloud-based computational platform to manage risk and resilience of buildings and infrastructure systems. 37th International Symposium on Automation and Robotics in Construction (ISARC 2020). Kokura, Japan: IAARC. Conference Date: October 26-30, 2020.
-  Hackl, J. (2020). Non-Markovian models for bridge deterioration. 4th International Symposium on Infrastructure Asset Management (SIAM 2020). Chicago, Illinois, USA: Northwestern University. Conference Date: August 20-21, 2020.
-  Baumann, J.</description>
+      <description>Hackl, J. (2021). Next Generation of Complex Infrastructure Systems. Lecture Series. Location: Ming Chuan University, Tauyuan City, Taiwan. Date: May 6, 2021.
+  Hackl, J. (2021). Next Generation of Complex Infrastructure Systems. Research Seminar. Location: National Taiwan University, Taipei, Taiwan. Date: March 23, 2021.
+  Hackl, J. (2021). Risk Assessments of Complex Infrastructure Systems. Berufungsvortrag: Tragwerkssicherheit. Location: Bauhaus-University Weimar, Germany. Date: March 18, 2021.
+  Hackl, J.</description>
     </item>
     
   </channel>

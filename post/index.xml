@@ -6,10 +6,15 @@
     <description>Recent content in Posts on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hackl.science/post/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HONS 2021</title>
+      <link>https://hackl.science/post/2021-06-11-hons2021/</link>
+      <pubDate>Fri, 11 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/2021-06-11-hons2021/</guid>
+      <description>&lt;p&gt;Complex Networks in Social Systems, Higer-Order Models in Network Science&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ICOSSAR 2021</title>
