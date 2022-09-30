@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tikz-network</title>
+      <link>https://hackl.science/post/tikznetwork/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/tikznetwork/</guid>
+      <description>&lt;p&gt;Check out my tool to visualize complex networks in LaTeX&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>carmentae</title>
+      <link>https://hackl.science/post/carmentae/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/carmentae/</guid>
+      <description>&lt;p&gt;My company &lt;em&gt;Carmentae Infrastructure Management GmbH&lt;/em&gt; supports infrastructure managers by the implementation of the newest scientific findings in their management process.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>HONS 2021</title>
       <link>https://hackl.science/post/2021-06-11-hons2021/</link>
@@ -23,24 +41,6 @@
       
       <guid>https://hackl.science/post/2020-04-17-icossar2021/</guid>
       <description>&lt;p&gt;MS37 Scientific Software Tools for Safety, Reliability and Risk Assessments of Structures and Systems.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>carmentae</title>
-      <link>https://hackl.science/post/carmentae/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/carmentae/</guid>
-      <description>&lt;p&gt;My company &lt;em&gt;Carmentae Infrastructure Management GmbH&lt;/em&gt; supports infrastructure managers by the implementation of the newest scientific findings in their management process.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>tikz-network</title>
-      <link>https://hackl.science/post/tikznetwork/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/tikznetwork/</guid>
-      <description>&lt;p&gt;Check out my tool to visualize complex networks in LaTeX&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -217,7 +217,7 @@
     <item>
       <title>cloud simulations</title>
       <link>https://hackl.science/post/cloudsimulations/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/cloudsimulations/</guid>
       <description>&lt;p&gt;My new research project &lt;em&gt;Cloud Simulations&lt;/em&gt;. A cloud-based computational platform to estimate risk and resilience of buildings and infrastructure systems.&lt;/p&gt;</description>
@@ -226,28 +226,28 @@
     <item>
       <title>pathpy</title>
       <link>https://hackl.science/post/pathpy/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/pathpy/</guid>
       <description>&lt;p&gt;I am the lead developer of pathpy, an OpenSource python package for the analysis of time series data on networks using higher-order and multi-order graphical models.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>research</title>
-      <link>https://hackl.science/post/science/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/science/</guid>
-      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://hackl.science/post/publications/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/publications/</guid>
       <description>&lt;p&gt;Overview of my research publications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://hackl.science/post/science/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/science/</guid>
+      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
     </item>
     
   </channel>

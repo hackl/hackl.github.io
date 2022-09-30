@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hackl.science/post/tikznetwork/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackl.science/post/carmentae/</loc>
+    <lastmod>2022-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hackl.science/post/2021-06-11-hons2021/</loc>
     <lastmod>2021-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/post/2020-04-17-icossar2021/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/post/carmentae/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/post/tikznetwork/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/post/2020-02-lam-jis/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
@@ -72,28 +72,31 @@
     <lastmod>2013-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/post/cloudsimulations/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/post/pathpy/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/post/science/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/post/publications/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hackl.science/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    <loc>https://hackl.science/post/science/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://hackl.science/post/</loc>
-    <lastmod>2021-06-11T00:00:00+00:00</lastmod>
+    <loc>https://hackl.science/about/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/categories/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackl.science/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackl.science/post/</loc>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/categories/publications/</loc>
-    <lastmod>2020-04-02T00:00:00+00:00</lastmod>
+    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/tags/natural-hazards/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
@@ -112,9 +115,6 @@
   </url><url>
     <loc>https://hackl.science/tags/uncertainties/</loc>
     <lastmod>2020-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/about/</loc>
-    <lastmod>2020-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/tags/recovery/</loc>
     <lastmod>2020-01-18T00:00:00+00:00</lastmod>

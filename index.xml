@@ -6,7 +6,25 @@
     <description>Recent content on Jürgen Hackl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hackl.science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tikz-network</title>
+      <link>https://hackl.science/post/tikznetwork/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/tikznetwork/</guid>
+      <description>&lt;p&gt;Check out my tool to visualize complex networks in LaTeX&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>carmentae</title>
+      <link>https://hackl.science/post/carmentae/</link>
+      <pubDate>Wed, 28 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/carmentae/</guid>
+      <description>&lt;p&gt;My company &lt;em&gt;Carmentae Infrastructure Management GmbH&lt;/em&gt; supports infrastructure managers by the implementation of the newest scientific findings in their management process.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>HONS 2021</title>
       <link>https://hackl.science/post/2021-06-11-hons2021/</link>
@@ -23,24 +41,6 @@
       
       <guid>https://hackl.science/post/2020-04-17-icossar2021/</guid>
       <description>&lt;p&gt;MS37 Scientific Software Tools for Safety, Reliability and Risk Assessments of Structures and Systems.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>carmentae</title>
-      <link>https://hackl.science/post/carmentae/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/carmentae/</guid>
-      <description>&lt;p&gt;My company &lt;em&gt;Carmentae Infrastructure Management GmbH&lt;/em&gt; supports infrastructure managers by the implementation of the newest scientific findings in their management process.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>tikz-network</title>
-      <link>https://hackl.science/post/tikznetwork/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/tikznetwork/</guid>
-      <description>&lt;p&gt;Check out my tool to visualize complex networks in LaTeX&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -217,7 +217,7 @@
     <item>
       <title>cloud simulations</title>
       <link>https://hackl.science/post/cloudsimulations/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/cloudsimulations/</guid>
       <description>&lt;p&gt;My new research project &lt;em&gt;Cloud Simulations&lt;/em&gt;. A cloud-based computational platform to estimate risk and resilience of buildings and infrastructure systems.&lt;/p&gt;</description>
@@ -226,37 +226,37 @@
     <item>
       <title>pathpy</title>
       <link>https://hackl.science/post/pathpy/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/pathpy/</guid>
       <description>&lt;p&gt;I am the lead developer of pathpy, an OpenSource python package for the analysis of time series data on networks using higher-order and multi-order graphical models.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>research</title>
-      <link>https://hackl.science/post/science/</link>
-      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://hackl.science/post/science/</guid>
-      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Publications</title>
       <link>https://hackl.science/post/publications/</link>
-      <pubDate>Thu, 02 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/post/publications/</guid>
       <description>&lt;p&gt;Overview of my research publications.&lt;/p&gt;</description>
     </item>
     
     <item>
+      <title>research</title>
+      <link>https://hackl.science/post/science/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://hackl.science/post/science/</guid>
+      <description>&lt;p&gt;My research interests lie in developing and quantifying a robust understanding of urban resilience with a focus on complex interdependent infrastructure systems.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>https://hackl.science/about/</link>
-      <pubDate>Tue, 11 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/about/</guid>
-      <description>Short bio Dr Jürgen Hackl is an Assistant Professor at the University of Liverpool and a member of the Data Analytics Group at the University of Zurich. He received his doctorate in Engineering Science from the ETH Zurich in July 2019. His research interests lie in complex urban systems and span both computational modelling and network science. Much of his work has been on improving the understanding, design, and performance of complex interdependent infrastructure systems, affected by natural hazards.</description>
+      <description>Short bio Dr Jürgen Hackl is an Assistant Professor at Princeton University and a member of the Data Analytics Group at the University of Zurich. He received his doctorate in Engineering Science from the ETH Zurich in July 2019. His research focuses on complex infrastructure systems, intelligent risk and resilience assessments to climate change, as well as integrated solutions to future challenges facing our cities and society. His research interests lie at the interface between formal methods in network sciences and their integration with prevailing simulation methods, such as digital twins.</description>
     </item>
     
     <item>
@@ -265,8 +265,9 @@
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://hackl.science/publications/</guid>
-      <description>Refereed Journal Publications   Lam, J. C., Hackl, J., Heitzler, M., Adey, B. T., and Hurni, L. (2020). Impact Assessment of Extreme Hydrometeorological Hazard Events on Road Networks Journal of Infrastructure Systems 26(2), 04020005. doi: 10.1061/(ASCE)IS.1943-555X.0000530
-  Lam, J. C., Heitzler, M., Hackl, J., Adey, B. T., and Hurni, L. (2020). Modelling the functional capacity losses of networks exposed to hazards. Sustainable and Resilient Infrastructure, 5(1-2), 30&amp;ndash;48. doi: 10.</description>
+      <description>Refereed Journal Publications Lam, J. C., Hackl, J., Heitzler, M., Adey, B. T., and Hurni, L. (2020). Impact Assessment of Extreme Hydrometeorological Hazard Events on Road Networks Journal of Infrastructure Systems 26(2), 04020005. doi: 10.1061/(ASCE)IS.1943-555X.0000530
+Lam, J. C., Heitzler, M., Hackl, J., Adey, B. T., and Hurni, L. (2020). Modelling the functional capacity losses of networks exposed to hazards. Sustainable and Resilient Infrastructure, 5(1-2), 30&amp;ndash;48. doi: 10.1080/23789689.2018.1469357
+Liu, Y.C., McNeil, S.</description>
     </item>
     
     <item>
@@ -276,9 +277,9 @@
       
       <guid>https://hackl.science/talks/</guid>
       <description>Hackl, J. (2021). Next Generation of Complex Infrastructure Systems. Lecture Series. Location: Ming Chuan University, Tauyuan City, Taiwan. Date: May 6, 2021.
-  Hackl, J. (2021). Next Generation of Complex Infrastructure Systems. Research Seminar. Location: National Taiwan University, Taipei, Taiwan. Date: March 23, 2021.
-  Hackl, J. (2021). Risk Assessments of Complex Infrastructure Systems. Berufungsvortrag: Tragwerkssicherheit. Location: Bauhaus-University Weimar, Germany. Date: March 18, 2021.
-  Hackl, J.</description>
+Hackl, J. (2021). Next Generation of Complex Infrastructure Systems. Research Seminar. Location: National Taiwan University, Taipei, Taiwan. Date: March 23, 2021.
+Hackl, J. (2021). Risk Assessments of Complex Infrastructure Systems. Berufungsvortrag: Tragwerkssicherheit. Location: Bauhaus-University Weimar, Germany. Date: March 18, 2021.
+Hackl, J. (2021). Next Generation of Complex Infrastructure Systems.</description>
     </item>
     
   </channel>
