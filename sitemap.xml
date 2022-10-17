@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hackl.science/post/2022-10-17-princetion/</loc>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackl.science/post/2022-10-10-princetion/</loc>
+    <lastmod>2022-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hackl.science/post/tikznetwork/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -83,16 +89,16 @@
     <loc>https://hackl.science/post/science/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://hackl.science/</loc>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hackl.science/post/</loc>
+    <lastmod>2022-10-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://hackl.science/about/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/categories/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/</loc>
-    <lastmod>2022-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://hackl.science/post/</loc>
     <lastmod>2022-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://hackl.science/categories/publications/</loc>
